@@ -1,4 +1,5 @@
 Shadow Hotels – Data Analytics Dashboard:
+
 🔹 Project Overview:
 This project analyzes data from Shodwe Group, a large hospitality chain with properties across India. The chain was struggling with fragmented, Excel-based reporting, making it hard for management to track revenue, occupancy, cancellations, and booking trends in real time.
 
@@ -13,6 +14,7 @@ The group faced key challenges:
 * Limited insights into room category performance and cancellation patterns.
 
 🔹 Approach:
+
 Data Preparation:
 * Combined multiple datasets (fact_bookings, fact_aggregated_bookings, dim_hotels, dim_rooms, dim_date).
 * Cleaned and transformed raw data for consistency.
