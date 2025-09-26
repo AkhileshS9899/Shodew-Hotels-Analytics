@@ -1,6 +1,6 @@
 # Shadow Hotels – Data Analytics Dashboard
 
----
+
 
 ## Executive Summary
 
@@ -9,8 +9,6 @@ Using *SQL, Excel, and Power BI*, I analyzed Shadow Hotels’ booking and revenu
 1. Optimize pricing and promotions for low-occupancy weekdays.  
 2. Focus on premium room categories to reduce cancellations.  
 3. Evaluate booking platforms to balance revenue and cancellation risk.
-
----
 
 ## Business Problem
 
@@ -22,10 +20,6 @@ Shadow Hotels, part of the Shodwe Group with properties across India, faced chal
 - Weekend vs. weekday trends were not tracked, impacting pricing strategy.  
 - Insights into room category performance and cancellations were limited.  
 
-*(Optional: Insert a "Booking Funnel / Occupancy Flow" image here.)*
-
----
-
 ## Methodology
 
 1. Combined and cleaned multiple datasets (*fact_bookings, fact_aggregated_bookings, dim_hotels, dim_rooms, dim_date*) using *SQL* and *Excel*.  
@@ -33,16 +27,12 @@ Shadow Hotels, part of the Shodwe Group with properties across India, faced chal
 3. Created comparative analysis across properties, room classes, states, and booking platforms.  
 4. Incorporated time-based trends to understand weekday vs. weekend occupancy and cancellations.  
 
----
-
 ## Skills
 
 * *SQL:* Joins, Aggregations, Data Cleaning  
 * *Excel:* Pivot Tables, VLOOKUP/XLOOKUP, Charts  
 * *Power BI:* Dashboards, DAX Measures, Data Modeling, KPIs  
 * *Core Skills:* Data visualization, business analysis, problem-solving
-
----
 
 ## Results & Business Recommendation
 
@@ -53,15 +43,17 @@ The analysis and dashboards provided clear insights into hotel performance:
 - Weekend occupancy is higher, but weekday underutilization impacts total revenue.  
 - Some booking platforms generate high revenue but also higher cancellation rates.
 
-**Visuals:** *(Insert charts and dashboards here, e.g., Revenue by Property, Occupancy Trends, Cancellations by Room Class.)*  
+**Visuals:** ![image alt](https://github.com/AkhileshS9899/Shodew-Hotels-Analytics/blob/4fe20e5cf7054df8ca8c80c228b3c893425b1a46/Screenshot%202025-08-03%20123008.png)
+            ![image alt](https://github.com/AkhileshS9899/Shodew-Hotels-Analytics/blob/4fe20e5cf7054df8ca8c80c228b3c893425b1a46/Screenshot%202025-08-03%20123018.png)
+            ![image alt](https://github.com/AkhileshS9899/Shodew-Hotels-Analytics/blob/4fe20e5cf7054df8ca8c80c228b3c893425b1a46/Screenshot%202025-08-03%20123024.png)
+            ![image alt](https://github.com/AkhileshS9899/Shodew-Hotels-Analytics/blob/4fe20e5cf7054df8ca8c80c228b3c893425b1a46/Screenshot%202025-08-03%20123040.png)
+            ![image alt](https://github.com/AkhileshS9899/Shodew-Hotels-Analytics/blob/4fe20e5cf7054df8ca8c80c228b3c893425b1a46/Screenshot%202025-08-03%20123047.png)
 
 **Recommendations:**  
 1. Implement targeted promotions for underutilized weekdays to improve occupancy.  
 2. Focus on premium room categories with proactive measures to reduce cancellations.  
 3. Evaluate booking platform performance and adjust contracts or marketing to balance revenue and cancellations.  
 4. Enable real-time dashboard access for management to make data-driven decisions.
-
----
 
 ## Next Steps
 
